@@ -10,6 +10,7 @@
    name=value
    ```
 2. 类型推断Type inference
-
+    如果一个变量有一个初始值，go将自动能够使用初始值来推断该变量的类型
+   > var name=value  
 
 
