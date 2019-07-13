@@ -12,21 +12,5 @@
 >
 > name=value
 
-
-
-类型判断type interface
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+     2.类型判断type interface
 
