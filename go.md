@@ -12,11 +12,5 @@
 >
 > name=value
 
-
-
-2 .
-
-
-
-
+2.类型推断Type inference
 
